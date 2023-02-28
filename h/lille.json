@@ -1,0 +1,501 @@
+{
+    "lille": [
+        {
+            "title": "S.C.P CHARLEY Coline et VANDERSCHELDEN Thibault",
+            "lat": "50.625578",
+            "lng": "3.065147",
+            "adresse": "294 rue Solfrino BP 1095 59012 LILLE",
+            "tel": "03.20.16.94.50",
+            "fax": "03.20.16.94.55",
+            "email": "etude@nord-huissiers.fr",
+            "website": "www.nord-huissiers.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L AB HUISSIERS",
+            "lat": "50.235276",
+            "lng": "3.212701",
+            "adresse": "16 rue Alexandre Desrousseau BP 146 59001 LILLE",
+            "tel": "03.20.51.90.51",
+            "fax": "03.20.74.97.13",
+            "email": "contact@abhuissiers.fr",
+            "website": "www.abhuissiers.fr"
+        },
+        {
+            "title": "S.C.P GUEPIN Gautier & PIQUE François ",
+            "lat": "50.613811",
+            "lng": "3.04236",
+            "adresse": "16 rue du Palais de Justice 59000 LILLE",
+            "tel": "03.20.06.74.14",
+            "fax": "03.20.31.05.83",
+            "email": "contact@guepin-pique.com"
+        },
+        {
+            "title": "S.C.P KINGET Alain MARLIERE Julien",
+            "lat": "50.6182",
+            "lng": "3.05593",
+            "adresse": "Immeuble Pythagore 51 boulevard de Strasbourg 59000 LILLE",
+            "tel": "03.20.55.24.40",
+            "fax": "03.20.31.66.16",
+            "email": "kinget.marliere@gmail.com",
+            "horaires": "8 h 30 -  12 h14 h - 19 h"
+        },
+        {
+            "title": "S.A.S ACTANORD - DOCO - CAZIN - VAN AUTREEVE - DEGUINES  - WALLART - MOREAU",
+            "lat": "50.613811",
+            "lng": "3.04236",
+            "adresse": "105 Quai des Chevillards 59000 LILLE",
+            "tel": "03.20.51.20.93",
+            "fax": "03.20.78.13.66",
+            "email": "contact@huissier-59-lille.fr",
+            "website": "www.huissier-59-lille.fr",
+            "horaires": "09H-12H \n14H-18H"
+        },
+        {
+            "title": "S.E.L.A.R.L VAN DEN BOS Severine, MIXTE Romain, BECUE Gauthier et CATTIAUX Maxime",
+            "lat": "50.644",
+            "lng": "3.0546"
+        },
+        {
+            "title": "S.A.S WATERLOT ET ASSOCIES",
+            "lat": "50.634",
+            "lng": "3.06183",
+            "adresse": "36 rue de l'Hopital Militaire 59044 LILLE",
+            "tel": "03.20.12.84.30",
+            "fax": "03.20.54.05.14",
+            "email": "comptabilite@huissiers-lille.com",
+            "website": "www.huissiers-lille.com"
+        },
+        {
+            "title": "S.A.S ACTANORD - DOCO - CAZIN - VAN AUTREEVE - DEGUINES  - WALLART - MOREAU",
+            "lat": "50.613811",
+            "lng": "3.04236",
+            "adresse": "105 Quai des Chevillards 59000 LILLE",
+            "tel": "03.28.66.13.14",
+            "fax": "03.74.72.00.72",
+            "email": "contact@huissier-dunkerque.com",
+            "website": "https://www.actanord-huissier-lille.com"
+        },
+        {
+            "title": "S.E.L.A.R.L NORD LEX",
+            "lat": "50.613811",
+            "lng": "3.04236",
+            "adresse": "15 rue Solferino  59000 LILLE",
+            "tel": "03.20.35.56.50",
+            "fax": "03.20.35.53.53",
+            "email": "nordlex@huissier-justice.fr",
+            "website": "www.nordlex.net"
+        },
+        {
+            "title": "S.C.P GLORIEUX Fabienne et MANCHEZ Philippe",
+            "lat": "50.6434",
+            "lng": "3.06302",
+            "adresse": "58 avenue du Peuple Belge BP 73 59009 LILLE",
+            "tel": "03.20.51.44.78",
+            "fax": "03.20.31.44.76",
+            "email": "glorieux.manchez@huissier-justice.fr"
+        },
+        {
+            "title": "S.A.R.L BERNA - PLICHON - MAZON",
+            "lat": "50.6715",
+            "lng": "3.07791"
+        },
+        {
+            "title": "S.C.P DARRAS Antoine, DELAMAIDE Catherine, MARTIN Guillaume et LE CORNEC Morgane ",
+            "lat": "50.6404",
+            "lng": "3.15011",
+            "adresse": "17 rue du Carillon BP 133 59653 VILLENEUVE-D'ASCQ",
+            "tel": "03.20.19.03.20",
+            "fax": "03.20.67.08.17",
+            "email": "ddml@huissier-justice.fr",
+            "website": "www.darrasetassocies.com"
+        },
+        {
+            "title": "S.C.P ROY THIERRY LEMOINE NICOLAS GALY JEAN-NOEL",
+            "lat": "50.6049",
+            "lng": "3.15194",
+            "adresse": "13 rue Haddock Parc de la Haute borne 59650 VILLENEUVE-D'ASCQ",
+            "tel": "03.20.05.13.41",
+            "fax": "03.20.61.03.01",
+            "email": "contact@hdjvda.com",
+            "website": "www.hdjvda.com"
+        },
+        {
+            "title": "S.A.S LISON JOSE ET ASSOCIES",
+            "lat": "50.6909",
+            "lng": "3.16661",
+            "adresse": "2-4 rue Mimerel BP 585 59060 ROUBAIX",
+            "tel": "03.20.27.05.06",
+            "fax": "03.20.70.28.33",
+            "email": "etude@lison-huissiers.fr",
+            "website": "www.huissiernord.fr"
+        },
+        {
+            "title": "Maitre PRIN Flore-Lise",
+            "lat": "50.7179",
+            "lng": "3.14397",
+            "adresse": "120 rue de Dunkerque rdc  59200 TOURCOING",
+            "tel": "03.20.65.08.98",
+            "fax": "09.70.10.15.37",
+            "email": "prin.huissier@gmail.com"
+        },
+        {
+            "title": "S.C.P SAFFRE RENE-GABRIEL DUDANT THIERRY",
+            "lat": "50.7138",
+            "lng": "3.16396"
+        },
+        {
+            "title": "S.C.P DEKERLE LAURENT JANSSENS MARTINE LABITTE BLANDINE",
+            "lat": "50.521781",
+            "lng": "3.115578"
+        },
+        {
+            "title": "S.E.L.A.R.L Acte & Ose huissiers",
+            "lat": "50.490913",
+            "lng": "2.953561"
+        },
+        {
+            "title": "S.E.L.A.R.L ASTUCIO",
+            "lat": "50.5299",
+            "lng": "2.80414",
+            "adresse": "22 avenue Jean-Baptiste Labas594 80 LA BASSEE",
+            "tel": "03.20.29.08.71",
+            "fax": "03.20.29.37.07",
+            "email": "contact@astucio-huissiers.comas",
+            "website": "tucio-huissiers.com",
+            "horaires": "8h30-18h00"
+        },
+        {
+            "title": "S.C.P BOURDON MICHEL",
+            "lat": "50.4223",
+            "lng": "2.94795"
+        },
+        {
+            "title": "S.C.P VERMUSE Dominique et GRAVE Amelie",
+            "lat": "50.4286",
+            "lng": "2.8388",
+            "adresse": "16 rue des 528 Deportes Juifs 62300 LENS",
+            "tel": "03.21.77.37.37",
+            "fax": "03.21.28.03.72",
+            "email": "scp.vermuse@huissier-justice.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L B2H",
+            "lat": "50.428",
+            "lng": "2.83204",
+            "adresse": "16 rue Michelet  62300 LENS",
+            "tel": "03.21.61.33.43",
+            "fax": "03.21.61.33.44",
+            "email": "contact@huissiers-houdain.fr",
+            "website": "www.huissiers-houdain.fr",
+            "horaires": "9H 12 H 13 H 30 17H30"
+        },
+        {
+            "title": "S.A.S NORIANCE",
+            "lat": "50.3762",
+            "lng": "3.09346",
+            "adresse": "30 Rue Van Beethoven CS 90016 59501 DOUAI",
+            "tel": "03.27.88.88.05",
+            "fax": "03.27.99.03.92",
+            "email": "contact@noriance-douai.fr",
+            "website": "https://www.noriance-douai.fr/"
+        },
+        {
+            "title": "S.E.L.A.R.L DENOYELLE Emmanuelle",
+            "lat": "50.374407",
+            "lng": "3.088554",
+            "adresse": "158 rue d'Arras 59500 DOUAI",
+            "tel": "03.27.88.97.11",
+            "fax": "03.27.96.48.61",
+            "email": "edenoyelle@huissierdouai.fr"
+        },
+        {
+            "title": "Maitre LEMAIRE FREDERIC",
+            "lat": "50.6468",
+            "lng": "2.63455"
+        },
+        {
+            "title": "S.E.L.A.R.L Acte & Ose huissiers",
+            "lat": "50.5332",
+            "lng": "2.63849"
+        },
+        {
+            "title": "S.E.L.A.R.L HUISSIERS O2 FRANCE",
+            "lat": "50.5303",
+            "lng": "2.6386",
+            "adresse": "18 rue du Pot d'Etain BP 87 62402 BETHUNE",
+            "tel": "03.21.68.24.65",
+            "fax": "03.21.68.24.66",
+            "email": "etude@huissiers-o2-france.fr",
+            "horaires": "08 H 00"
+        },
+        {
+            "title": "S.E.L.A.R.L AB HUISSIERS",
+            "lat": "50.5297",
+            "lng": "2.63539"
+        },
+        {
+            "title": "S.C.P LAMOURETTE Patrick, LEYS Stephanie et WATERLOT Gonzague",
+            "lat": "50.325658",
+            "lng": "2.982176"
+        },
+        {
+            "title": "Maitre WAESELYNCK JEAN-FRANCOIS",
+            "lat": "50.7246",
+            "lng": "2.53428",
+            "adresse": "13 - 15 boulevard Abbe Lemire 59190 HAZEBROUCK",
+            "tel": "03.28.48.00.87",
+            "fax": "03.28.41.09.54",
+            "email": "jf@waeselynck.",
+            "website": "euwww.huissier-flandre.com",
+            "horaires": "09h00 - 12H00  14H00-17H00"
+        },
+        {
+            "title": "S.C.P PATOIR Charles",
+            "lat": "50.5606",
+            "lng": "2.48468",
+            "adresse": "53 rue de Verdun 62190 LILLERS",
+            "tel": "03.21.54.60.90",
+            "fax": "03.21.54.60.95",
+            "email": "charles.patoir@huissier-justice.fr",
+            "horaires": "9h -12h / 14h-18h"
+        },
+        {
+            "title": "S.E.L.A.R.L LEXIS",
+            "lat": "50.2929",
+            "lng": "2.78202"
+        },
+        {
+            "title": "S.A.S AXCYAN - CUVILLON - DEVERNAY - TROCME - VICONGNE",
+            "lat": "50.2896",
+            "lng": "2.77264",
+            "adresse": "1er étage 3 rue du College CS 40155 62003 ARRAS",
+            "tel": "03.21.21.35.00",
+            "fax": "03.21.21.35.03",
+            "email": "arras@axcyan.fr",
+            "website": "www.axcyan.fr"
+        },
+        {
+            "title": "S.C.P LIOT Sylvestre - DRUELLE Alexis",
+            "lat": "50.44959",
+            "lng": "3.59453"
+        },
+        {
+            "title": "Maitre COSSON GREGORY",
+            "lat": "50.3581",
+            "lng": "3.51774",
+            "adresse": "Residence Les Glatignies 9 rue des Glatignies BP 70052 59301 VALENCIENNES",
+            "tel": "03.59.76.11.03",
+            "fax": "03.27.30.92.29",
+            "email": "gregory.cosson@huissier-justice.fr"
+        },
+        {
+            "title": "S.C.P BEAUGRAND Delphine ZUKOWSKI Mickael ELOY Catherine",
+            "lat": "50.357113",
+            "lng": "3.518332"
+        },
+        {
+            "title": "Maitre GIRARD Olivier",
+            "lat": "50.3574",
+            "lng": "3.51975",
+            "adresse": "25 rue Capron BP 20223 59305 VALENCIENNES",
+            "tel": "03.27.33.39.33",
+            "fax": "03.27.33.30.52",
+            "email": "olivier.girard@huissier-justice.fr"
+        },
+        {
+            "title": "S.C.P VERHEYDE Regis SANTRAIN Romain",
+            "lat": "50.638757",
+            "lng": "2.396187",
+            "adresse": "7 avenue Vauban BP 129 62120 AIRE-SUR-LA-LYS",
+            "tel": "03.21.12.47.47",
+            "fax": "03.21.12.47.49",
+            "email": "scp.verheyde.santrain@huissier-justice.fr",
+            "website": "www.huissiers-verheyde-santrain.fr"
+        },
+        {
+            "title": "S.A.R.L BERNA - PLICHON - MAZON",
+            "lat": "50.1779",
+            "lng": "3.23569",
+            "adresse": "19 rue de la Porte Notre Dame 59400 CAMBRAI",
+            "tel": "03.27.82.32.32",
+            "fax": "03.27.81.08.08",
+            "email": "etude.plichon@huissier-justice.fr",
+            "website": "www.bp-huissiers59.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L.A.U HUISSIER DUPONT ",
+            "lat": "50.173538",
+            "lng": "3.236633"
+        },
+        {
+            "title": "Maitre SAUVE PHILIPPE",
+            "lat": "50.121636",
+            "lng": "3.172462",
+            "adresse": "28 rue Roger Salengro 59159 MARCOING",
+            "tel": "03.27.37.50.37",
+            "fax": "03.27.79.47.69",
+            "email": "huissier.marcoing@yahoo.fr"
+        },
+        {
+            "title": "S.C.P BOISLEUX HENRI-LUC FISCHER EMMANUEL",
+            "lat": "50.750115",
+            "lng": "2.252208",
+            "adresse": "15 rue de Wissocq BP 7 62501 SAINT-OMER",
+            "tel": "03.21.38.04.86",
+            "fax": "03.21.38.53.44",
+            "email": "contact@boisleux-fischer-huissiers62.fr",
+            "website": "https://www.boisleux-fischer-huissiers62.fr"
+        },
+        {
+            "title": "S.C.P BEAUGRAND Delphine ZUKOWSKI Mickael ELOY Catherine",
+            "lat": "50.248828",
+            "lng": "3.637406"
+        },
+        {
+            "title": "S.A.R.L BERNA - PLICHON - MAZON",
+            "lat": "50.125228",
+            "lng": "3.410058"
+        },
+        {
+            "title": "S.E.L.A.R.L VAN DEN BOS Severine, MIXTE Romain, BECUE Gauthier et CATTIAUX Maxime",
+            "lat": "51.0348",
+            "lng": "2.37829",
+            "adresse": "30 place Jean Bart  59140 DUNKERQUE",
+            "tel": "03.28.68.65.84",
+            "fax": "03.28.68.29.99",
+            "email": "contact.bergues@certijuris.fr"
+        },
+        {
+            "title": "Maitre LELEU Anne-Charlotte",
+            "lat": "50.278457",
+            "lng": "2.292931"
+        },
+        {
+            "title": "S.E.L.A.R.L.A.U HUISSIER DUPONT ",
+            "lat": "50.077739",
+            "lng": "3.399979"
+        },
+        {
+            "title": "S.A.S.U JUSTITIA LEX",
+            "lat": "51.046002",
+            "lng": "2.357928",
+            "adresse": "30 rue de Beaumont 59140 DUNKERQUE",
+            "tel": "03.28.63.21.14",
+            "fax": "03.28.63.22.14",
+            "email": "justitialex@huissier-justice.fr",
+            "website": "www.justitia-lex-huissiers.fr"
+        },
+        {
+            "title": "S.A.S ACTANORD - DOCO - CAZIN - VAN AUTREEVE - DEGUINES  - WALLART - MOREAU",
+            "lat": "51.046002",
+            "lng": "2.357928",
+            "adresse": "35 rue David d'Angers 59140 DUNKERQUE",
+            "tel": "03.28.66.13.14",
+            "fax": "03.28.59.39.93",
+            "email": "contact@actanord-huissier.com",
+            "website": "www.actanord-huissier.com",
+            "horaires": "8h30 - 12 h"
+        },
+        {
+            "title": "S.E.L.A.R.L VAN DEN BOS Severine, MIXTE Romain, BECUE Gauthier et CATTIAUX Maxime",
+            "lat": "50.944628",
+            "lng": "2.195354"
+        },
+        {
+            "title": "S.A.R.L BERNA - PLICHON - MAZON",
+            "lat": "50.2907",
+            "lng": "3.96481",
+            "adresse": "Centre d'affaires La Fontaine Boulevard Moliere BP 40206 59600 MAUBEUGE",
+            "tel": "03.27.64.64.34",
+            "fax": "03.27.64.19.55",
+            "email": "contact@huissier-berna-59.com",
+            "website": "www.huissier-berna-59.com",
+            "horaires": "9h00 - 12h30 / 13h45 - 17h30"
+        },
+        {
+            "title": "S.C.P DEKINDT Alexandre MATHIEU Pierre",
+            "lat": "50.985882",
+            "lng": "2.125921",
+            "adresse": "5 rue de Calais 59820 GRAVELINES",
+            "tel": "03.28.66.73.51",
+            "fax": "03.28.66.05.46",
+            "email": "scp.bruneval-dekindt@nordnet.fr",
+            "website": "www.dekindt-mathieu-huissiers.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L DELVAL LANDRIEUX",
+            "lat": "50.123589",
+            "lng": "3.926864",
+            "adresse": "3 rue Cambresienne  BP 90003 59361 AVESNES-SUR-HELPE",
+            "tel": "03.27.61.22.00",
+            "fax": "03.27.57.98.97",
+            "email": "delval.frederique@huissier-justice.fr",
+            "website": "www.delval-landrieux.fr",
+            "horaires": "09 H  - 12 H - 14 h - 17 H"
+        },
+        {
+            "title": "Maitre SILBERBERG-LEROUX VIRGINIE",
+            "lat": "50.9452",
+            "lng": "1.85989"
+        },
+        {
+            "title": "Maitre DELPIERRE Charlotte",
+            "lat": "50.9463",
+            "lng": "1.85955"
+        },
+        {
+            "title": "S.A.S SINEQUAE",
+            "lat": "50.9528",
+            "lng": "1.85885"
+        },
+        {
+            "title": "S.E.L.A.R.L DUQUENOY et CULNARD",
+            "lat": "50.46816",
+            "lng": "1.768269",
+            "adresse": "75 rue Pierre Lendent BP 62 62170 MONTREUIL",
+            "tel": "03.21.81.54.00",
+            "fax": "03.21.86.15.36",
+            "email": "selarl.duquenoy.culnard@huissier-justice.fr"
+        },
+        {
+            "title": "Maitre CROCCEL FRANCOIS",
+            "lat": "50.81451",
+            "lng": "1.704929",
+            "adresse": "4 rue du Docteur Schweitzer BP 12 62250 MARQUISE",
+            "tel": "03.21.10.04.60",
+            "fax": "03.21.10.04.61",
+            "email": "croccel.huissier@wanadoo.fr"
+        },
+        {
+            "title": "Maitre CUVILLIER PATRICK",
+            "lat": "50.516087",
+            "lng": "1.63879"
+        },
+        {
+            "title": "Maitre MARTIN Veronique",
+            "lat": "50.725231",
+            "lng": "1.613334",
+            "adresse": "35 boulevard Eurvin 62200 BOULOGNE-SUR-MER",
+            "tel": "03.21.91.11.11",
+            "fax": "03.21.91.17.28",
+            "email": "contact@martin-huissier-boulognesurmer.fr",
+            "horaires": "8H15-12H00\n14H00-18H00"
+        },
+        {
+            "title": "S.C.P DONNEZ MARC JAILLOUX JEAN-CHRISTOPHE",
+            "lat": "50.7259",
+            "lng": "1.6034",
+            "adresse": "1er étage 106 rue Thiers 62200 BOULOGNE-SUR-MER",
+            "tel": "03.21.83.11.23",
+            "fax": "03.21.33.60.10",
+            "email": "scp.donnez.jailloux@huissier-justice.fr",
+            "website": "www.huissier-boulogne.com"
+        },
+        {
+            "title": "S.E.L.A.R.L LEXIS",
+            "adresse": "3 square Léon Jouhaux BP 90213 62004 ARRAS Cedex",
+            "lat": "50.293467231725366",
+            "lng": "2.781984584172537"
+        }
+    ]
+}
