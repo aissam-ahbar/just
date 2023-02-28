@@ -1,0 +1,888 @@
+{
+    "paris": [
+        {
+            "title": "S.A.S.U DESAGNEAUX Beatrice",
+            "lat": "48.871872",
+            "lng": "2.317643",
+            "adresse": "23 bis rue de Constantinople 75008 PARIST",
+            "tel": "01.45.22.21.04",
+            "fax": "01.45.22.42.55",
+            "email": "contact@etudedesagneaux.fr",
+            "website": "bd"
+        },
+        {
+            "title": "S.C.P NOCQUET Jerome, FLUTRE Jennifer et MARCIREAU Malik",
+            "lat": "48.867564",
+            "lng": "2.34399",
+            "adresse": "16 rue de la Banque 75002 PARIST",
+            "tel": "01.42.60.70.70",
+            "fax": "01.49.27.06.67",
+            "email": "huissiers@nocquet.or",
+            "website": "gwww.nocquet-huissiers.com"
+        },
+        {
+            "title": "S.C.P BERRUER Henri",
+            "lat": "48.8582",
+            "lng": "2.28285",
+            "adresse": "17 rue de Passy 75016 PARIST",
+            "tel": "01.47.64.95.00",
+            "fax": "01.47.64.47.87",
+            "email": "etude@hberruer-huissier.fr",
+            "website": "berruer"
+        },
+        {
+            "title": "S.E.L.A.R.L VAN KEMMEL  Stephane",
+            "lat": "48.856",
+            "lng": "2.34675",
+            "adresse": "Tribunal de Commerce de Paris 1 quai de la Corse 75004 PARIST",
+            "tel": "01.43.54.00.80",
+            "fax": "01.42.49.72.67",
+            "email": "svankemmel@gmail.coms",
+            "website": "vankemmel"
+        },
+        {
+            "title": "S.C.P HOUTART Florence et PUECH-LE MOUX Anne-Laure",
+            "lat": "48.8678",
+            "lng": "2.40085",
+            "adresse": "119 avenue Gambetta 75020 PARIST",
+            "tel": "01.40.31.66.12",
+            "fax": "01.40.31.73.20",
+            "email": "etude.houtart@orange.fr",
+            "website": "www.huissier-houtart-paris.com",
+            "horaires": "9H-17H30"
+        },
+        {
+            "title": "S.C.P BENHAMOUR PIERRE SADONE FRANCIS",
+            "lat": "48.857993",
+            "lng": "2.381153",
+            "adresse": "109-111 boulevard Voltaire BP 259 75011 PARIST",
+            "tel": "01.43.79.00.42",
+            "fax": "01.43.79.09.45",
+            "email": "contact@benhamour-sadone.com",
+            "website": "www.benhamour-sadone.com"
+        },
+        {
+            "title": "S.A.S FRADIN TRONEL SASSARD & ASSOCIES - PARIS",
+            "lat": "48.8458",
+            "lng": "2.37097"
+        },
+        {
+            "title": "S.C.P GAULIN Veronique",
+            "lat": "48.8694",
+            "lng": "2.36261",
+            "adresse": "8 boulevard de Magenta 75010 PARIST",
+            "tel": "01.42.02.15.27",
+            "fax": "01.42.02.33.91",
+            "email": "scpgaulin@orange.fr",
+            "website": "www.huissiers-gaulin-paris.fr",
+            "horaires": "9 h"
+        },
+        {
+            "title": "S.E.L.A.R.L MEYER Isabelle et DELAMOTTE Julie",
+            "lat": "48.8556",
+            "lng": "2.35898"
+        },
+        {
+            "title": "S.A.S ACJIR NICOLAS - SIBENALER - BECK",
+            "lat": "48.871872",
+            "lng": "2.317643"
+        },
+        {
+            "title": "S.A.S HUISSIERS REUNIS PARIS ",
+            "lat": "48.891986",
+            "lng": "2.319287"
+        },
+        {
+            "title": "S.A.S LSL ",
+            "lat": "48.842162",
+            "lng": "2.292766",
+            "adresse": "132 rue de l'Abbe Groult 75015 PARIST",
+            "tel": "01.48.28.39.39",
+            "fax": "01.48.28.59.39",
+            "email": "pincemin.huissier@laposte.",
+            "website": "net"
+        },
+        {
+            "title": "S.A.R.L PARHUIS - COMMISSAIRES DE JUSTICE ASSOCIES",
+            "lat": "48.8675",
+            "lng": "2.3356",
+            "adresse": "51 rue Sainte-Anne 75002 PARIST",
+            "tel": "01.42.36.54.24",
+            "fax": "01.45.08.43.81",
+            "email": "gaultier.mazure@huissierdeparis.com",
+            "website": "www.parhuis.com"
+        },
+        {
+            "title": "S.C.P JD & Associes",
+            "lat": "48.8659",
+            "lng": "2.27938"
+        },
+        {
+            "title": "S.E.L.A.R.L DESAGNEAUX Astrid",
+            "lat": "48.8688",
+            "lng": "2.30433",
+            "adresse": "24 rue Marbeuf 75008 PARIST",
+            "tel": "01.47.20.10.43",
+            "fax": "01.47.20.10.42",
+            "email": "etude@scp-desagneaux.com",
+            "website": "www.scp-desagneaux.com"
+        },
+        {
+            "title": "S.C.P PARKER Raynald, PERROT Raphael et TAUPIN Thibauld",
+            "lat": "48.858238",
+            "lng": "2.274943"
+        },
+        {
+            "title": "S.A.S ACJIR NICOLAS - SIBENALER - BECK",
+            "lat": "48.861212",
+            "lng": "2.309024"
+        },
+        {
+            "title": "Maitre VIGNAT PASCAL",
+            "lat": "48.8963",
+            "lng": "2.33",
+            "adresse": "10 Villa Vauvenargues 75018 PARIST",
+            "tel": "01.40.25.03.02",
+            "fax": "01.40.25.03.52",
+            "email": "etude-vignat@wanadoo.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L ABBAD PERROT",
+            "lat": "48.8692",
+            "lng": "2.33919"
+        },
+        {
+            "title": "S.C.P ABRAHMI BLANCHET LALLEMAND",
+            "lat": "48.831441",
+            "lng": "2.325568"
+        },
+        {
+            "title": "S.E.L.A.R.L COHEN JEROME",
+            "lat": "48.8667",
+            "lng": "2.36262",
+            "adresse": "176 rue du Temple 75003 PARIST",
+            "tel": "01.48.87.23.28",
+            "fax": "01.48.87.02.10",
+            "email": "etude@cohen-huissier.fr"
+        },
+        {
+            "title": "S.C.P ROBERT Mayeul, HEURTEL Etienne et PETITE Christophe",
+            "lat": "48.871",
+            "lng": "2.32642",
+            "adresse": "16 rue Vignon 75009 PARIST",
+            "tel": "01.40.06.08.98",
+            "fax": "01.40.06.03.68",
+            "email": "contact@etuderobert.com",
+            "website": "www.huissier-robert.fr"
+        },
+        {
+            "title": "S.C.P ABC JUSTICE ",
+            "lat": "48.8384",
+            "lng": "2.29514",
+            "adresse": "6 rue Alain Chartier 75015 PARIST",
+            "tel": "01.44.17.99.77",
+            "fax": "01.84.10.97.05",
+            "email": "contact@abcjustice.com",
+            "website": "www.abcjustice.com",
+            "horaires": "9h - 19h"
+        },
+        {
+            "title": "S.C.P ABC JUSTICE ",
+            "lat": "48.88",
+            "lng": "2.29"
+        },
+        {
+            "title": "S.C.P LANDEZ Frederic, BARTET Pierre Olivier, LOUVEAU-DEZAUNAY Dorine et GAUTHERON Orlane  (AUD. POLICE)",
+            "lat": "48.8678",
+            "lng": "2.28391",
+            "adresse": "18 rue Mesnil  75116 PARIST",
+            "tel": "01.42.16.86.86",
+            "fax": "01.45.83.70.47",
+            "email": "contact@lblg-huissiers.com"
+        },
+        {
+            "title": "S.C.P THULLIER JEAN-LUC",
+            "lat": "48.8769",
+            "lng": "2.36404",
+            "adresse": "7 rue du Terrage 75010 PARIST",
+            "tel": "01.55.26.81.55",
+            "fax": "01.53.26.56.26",
+            "email": "thullier@huissierdeparis.com"
+        },
+        {
+            "title": "S.A.S BOUVET - LLOPIS - MULLER & Associes",
+            "lat": "48.864049",
+            "lng": "2.331053",
+            "adresse": "354 rue Saint-Honore 75001 PARIST",
+            "tel": "01.42.60.75.75",
+            "fax": "01.49.27.07.44",
+            "email": "mjb@bblhuissiers.fr"
+        },
+        {
+            "title": "S.A.R.L ROC Camille - UNG Lina ",
+            "lat": "48.8931",
+            "lng": "2.32266"
+        },
+        {
+            "title": "S.A.S BOUVET - LLOPIS - MULLER & Associes",
+            "lat": "48.848858",
+            "lng": "2.335422",
+            "adresse": "3 rue du Regard 75006 PARIST",
+            "tel": "01.45.44.66.21",
+            "fax": "01.45.44.86.82",
+            "email": "judiciaire@bblhuissiers.fr"
+        },
+        {
+            "title": "Maitre COATMEUR PHILIPPE",
+            "lat": "48.829365",
+            "lng": "2.426541",
+            "adresse": "19 bis rue de Cotte 75012 PARIST",
+            "tel": "01.44.88.99.88",
+            "fax": "01.44.88.99.89",
+            "email": "phcoatmeur@wanadoo.fr"
+        },
+        {
+            "title": "Maitre STEVENS Sophie",
+            "lat": "48.8389",
+            "lng": "2.34928"
+        },
+        {
+            "title": "S.C.P ABC JUSTICE ",
+            "lat": "48.882637",
+            "lng": "2.303493"
+        },
+        {
+            "title": "S.A.R.L CBO GRAND PARIS JUSTICE ",
+            "lat": "48.854335",
+            "lng": "2.313403",
+            "adresse": "32 avenue Charles Floquet 75007 PARIST",
+            "tel": "01.53.58.33.60",
+            "fax": "01.53.58.33.61",
+            "email": "contact@cboparis.com",
+            "website": "www.cb-huissiers.com"
+        },
+        {
+            "title": "S.C.P CHAVAUDRET Remi et CASTALAN Renaud",
+            "lat": "48.8629",
+            "lng": "2.33991"
+        },
+        {
+            "title": "Maitre PARGADE LOUIS",
+            "lat": "48.869",
+            "lng": "2.33534"
+        },
+        {
+            "title": "S.E.L.A.R.L DUCOURT ET ASSOCIES",
+            "lat": "48.879018",
+            "lng": "2.337906"
+        },
+        {
+            "title": "S.C.P JEZEQUEL, GRUEL et Associes",
+            "lat": "48.830759",
+            "lng": "2.359204",
+            "adresse": "39 boulevard de Port-Royal 75013 PARIST",
+            "tel": "01.43.37.55.88",
+            "fax": "01.43.37.57.77",
+            "email": "contact@cdjustice.paris",
+            "website": "https://paris.huissiers-jezequel-gruel.com/"
+        },
+        {
+            "title": "S.A.R.L LOUVION Pascal ",
+            "lat": "48.8557",
+            "lng": "2.347"
+        },
+        {
+            "title": "Maitre MORILLA GOMEZ CHRISTOPHE",
+            "lat": "48.8777",
+            "lng": "2.32256",
+            "adresse": "41 rue de Rome 75008 PARIST",
+            "tel": "01.42.33.14.09",
+            "fax": "09.72.11.19.58",
+            "email": "etude@huissnet.com",
+            "website": "www.huissnet.fr"
+        },
+        {
+            "title": "Maitre ORAIN Kim Hoa",
+            "lat": "48.8751",
+            "lng": "2.29734"
+        },
+        {
+            "title": "S.E.L.U.R.L SOCIETE LORRAINE PERON-MACE",
+            "lat": "48.853093",
+            "lng": "2.248763"
+        },
+        {
+            "title": "S.A.S DE LEGE LATA - CDJA",
+            "lat": "48.871872",
+            "lng": "2.317643",
+            "adresse": "39 rue de Liege 75008 PARIST",
+            "tel": "01.53.53.09.10",
+            "fax": "01.53.53.09.12",
+            "email": "contact@etude-dll.com",
+            "website": "www.etude-dll.com",
+            "horaires": "8h30-12h\n13h-17h30"
+        },
+        {
+            "title": "S.E.L.A.R.L LOTTE Maurice - CANTO Valerie - VIDAL Anne Fleur",
+            "lat": "48.8785",
+            "lng": "2.36422",
+            "adresse": "27 boulevard des Italiens 75002 PARIST",
+            "tel": "01.42.68.83.10",
+            "fax": "01.47.42.11.26",
+            "email": "lotte.canto@huissiersdeparis.com",
+            "website": "www.lotte-huissier.com",
+            "horaires": "9.30 - 12.00 / 14.00 - 17.00"
+        },
+        {
+            "title": "S.E.L.A.R.L LEGATHUISS",
+            "lat": "48.842162",
+            "lng": "2.292766",
+            "adresse": "63 rue de l'Amiral Roussin 75015 PARIST",
+            "tel": "01.42.36.93.48",
+            "fax": "01.42.36.00.87",
+            "email": "huissier@bg-legathuiss.com",
+            "website": "https://todo-huissier.fr/"
+        },
+        {
+            "title": "S.A.R.L DELAMOTTE - MARTIN ASSOCIES",
+            "lat": "48.8632",
+            "lng": "2.40307",
+            "adresse": "6 rue Leuck-Mathieu 75020 PARIST",
+            "tel": "01.00.00.00.00",
+            "fax": "06.64.47.43.28",
+            "email": "etude@dm-associes.fr"
+        },
+        {
+            "title": "S.C.P GUERIN - BOURGEAC ",
+            "lat": "48.891986",
+            "lng": "2.319287",
+            "adresse": "130 rue de Courcelles 75017 PARIST",
+            "tel": "01.45.63.71.63",
+            "fax": "01.42.25.93.06",
+            "email": "contact@huissiers-pgb.fr"
+        },
+        {
+            "title": "S.A.R.L LEROI & ASSOCIES",
+            "lat": "48.8796",
+            "lng": "2.291",
+            "adresse": "6 Place Tristan Bernard  75017 PARIST",
+            "tel": "01.41.37.65.30",
+            "fax": "01.41.37.65.31",
+            "email": "contact@huissierweb.com",
+            "website": "https://leroi-associes.com"
+        },
+        {
+            "title": "S.A.S CERTEA",
+            "lat": "48.842129",
+            "lng": "2.32197"
+        },
+        {
+            "title": "S.A.S WATERLOT ET ASSOCIES",
+            "lat": "48.8723",
+            "lng": "2.31955"
+        },
+        {
+            "title": "S.C.P CNCJ - Etude Test Paris",
+            "lat": "48.8831",
+            "lng": "2.33155"
+        },
+        {
+            "title": " SCM VANEAU-MONCEAU",
+            "lat": "48.8773",
+            "lng": "2.31005"
+        },
+        {
+            "title": "S.E.L.A.R.L LAZIMI Pierre-Laurent",
+            "lat": "48.891986",
+            "lng": "2.319287"
+        },
+        {
+            "title": "Maitre HUE Muriel",
+            "lat": "48.9025",
+            "lng": "2.33463",
+            "adresse": "5 IMPASSE DES TROIS BORNES 93400 SAINT-OUENT",
+            "tel": "01.49.18.90.90",
+            "fax": "01.40.12.33.18",
+            "email": "etude.hue@huissier93.fr",
+            "website": "www.huissier93.fr",
+            "horaires": "9h00-18h00"
+        },
+        {
+            "title": "S.C.P TEBOUL & Associes",
+            "lat": "48.9038",
+            "lng": "2.34687"
+        },
+        {
+            "title": "Maitre LE MENN Helene",
+            "lat": "48.890614",
+            "lng": "2.386708"
+        },
+        {
+            "title": "S.E.L.A.R.L LAMANDIN - ROCHE - THUET",
+            "lat": "48.9051",
+            "lng": "2.37517"
+        },
+        {
+            "title": "S.C.P ALLIRAND Marie-Helene, SANTOS Melanie, VALENCIK Paul",
+            "lat": "48.8788",
+            "lng": "2.41591",
+            "adresse": "7 rue Georges Pompidou9326 0 LES LILAST",
+            "tel": "01.43.62.81.12",
+            "fax": "01.49.72.04.26",
+            "email": "scp.allirand@wanadoo.fr"
+        },
+        {
+            "title": "S.C.P DEVAUD Jean-Jacques TRUTTMANN Bertrand NICOLAS Jean-Baptiste",
+            "lat": "48.8132",
+            "lng": "2.36097"
+        },
+        {
+            "title": "S.A.S LEROY-BEAULIEU-ALLAIRE-LAVILLAT-CORNEE",
+            "lat": "48.8739",
+            "lng": "2.42096",
+            "adresse": "144 avenue Gambetta BP 85 93172 BAGNOLETT",
+            "tel": "01.43.62.14.97",
+            "fax": "01.48.97.41.01",
+            "email": "contact@lbal-justice.fr",
+            "website": "http://www.lbal-justice.fr"
+        },
+        {
+            "title": "Maitre PARISOT Valentin ",
+            "lat": "48.9223",
+            "lng": "2.36208"
+        },
+        {
+            "title": "S.A.S FORTUNATI Jean-Luc MORICE Laetitia ARDIOT Samuel",
+            "lat": "48.8151",
+            "lng": "2.38431",
+            "adresse": "69 avenue Danielle Casanova Bat A - 1er etage  94200 IVRY-SUR-SEINET",
+            "tel": "01.46.72.00.89",
+            "fax": "01.46.72.60.67",
+            "email": "hdjparisest@orange.fr",
+            "website": "www.justice94.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L CHAOUAT MARCIANO ",
+            "lat": "48.8032",
+            "lng": "2.36481"
+        },
+        {
+            "title": "S.C.P SZENIK Franck-Alain, MARTIN Philippe, CAILLE Sophie, BEDDOUK Pierre et BENICHOU Jeremie",
+            "lat": "48.9353",
+            "lng": "2.35026",
+            "adresse": "22 - 24 boulevard Jules Guesde BP 199 93200 SAINT-DENIST",
+            "tel": "01.42.43.41.41",
+            "fax": "01.48.13.70.27",
+            "email": "huissiers@bsmc93.com"
+        },
+        {
+            "title": "S.C.P CHASTANIER Michel, ALLENO Alexandre et LAYEC-RABANY Gabrielle",
+            "lat": "48.8594",
+            "lng": "2.44094",
+            "adresse": "39 avenue du President Wilson BP 19 93100 MONTREUILT",
+            "tel": "01.42.87.01.16",
+            "fax": "01.42.87.13.11",
+            "email": "etude@huissier-93.frcar",
+            "website": "l-huissier-93.fr",
+            "horaires": "9h-12"
+        },
+        {
+            "title": "Maitre LUCCHINI PASQUIN",
+            "lat": "48.9386",
+            "lng": "2.35438",
+            "adresse": "2 boulevard Carnot BP 52 93202 SAINT-DENIST",
+            "tel": "01.48.29.16.04",
+            "fax": "01.48.29.41.00",
+            "email": "pasquinlucchini@orange.fr",
+            "website": "www.huissier-lucchini.com",
+            "horaires": "9 H"
+        },
+        {
+            "title": "S.C.P OCHOA Charles, ASPROMONTE Laure, HARANT Daphne et PECHEUR Thomas",
+            "lat": "48.9026",
+            "lng": "2.44006",
+            "adresse": "77 rue Jean Jaures 93000 BOBIGNYT",
+            "tel": "01.48.30.33.27",
+            "fax": "01.48.30.43.28",
+            "email": "office@exlobo.fr"
+        },
+        {
+            "title": "S.C.P CALIPPE & ASSOCIES ",
+            "lat": "48.8483",
+            "lng": "2.45142",
+            "adresse": "81 rue de France 94300 VINCENNEST",
+            "tel": "01.48.86.67.47",
+            "fax": "01.40.15.96.05",
+            "email": "etude@calippe-corbeaux.com"
+        },
+        {
+            "title": "S.C.P NUNES Pascal, RENAULT Gwenaelle, POULET Etienne",
+            "lat": "48.9083",
+            "lng": "2.44262",
+            "adresse": "31 rue Alcide Vellard 93000 BOBIGNYT",
+            "tel": "01.47.49.00.36",
+            "fax": "01.47.49.56.08",
+            "email": "contact@nrp-justice.com",
+            "website": "https://www.nrp-huissiers.com/",
+            "horaires": "9H30-12H30 14H00-18H00"
+        },
+        {
+            "title": "S.A.R.L CBO GRAND PARIS JUSTICE",
+            "lat": "48.7925",
+            "lng": "2.39651",
+            "adresse": "8 rue d'Alegre 94400 VITRY-SUR-SEINET",
+            "tel": "01.55.53.10.30",
+            "fax": "01.46.82.34.72",
+            "email": "jeremyorlandi@cbovitry.com",
+            "website": "http://www.cbo-huissiers.com",
+            "horaires": "9 H / 13 H"
+        },
+        {
+            "title": "Maitre DUNAUD-AHARFI Odile - ACTIEJ",
+            "lat": "48.9083",
+            "lng": "2.45287"
+        },
+        {
+            "title": "S.C.P COUVILLERS FABRICE BOULARD ALAIN",
+            "lat": "48.9177",
+            "lng": "2.4462",
+            "adresse": "1er etage 64 rue Marcelin Berthelot BP 12 93701 DRANCYT",
+            "tel": "01.48.32.09.81",
+            "fax": "01.48.31.18.59",
+            "email": "contact@huissiers-drancy.com",
+            "website": "www.huissiers-drancy.com"
+        },
+        {
+            "title": "S.C.P DUCHAUCHOY-CREUZIN Pascal et LAMACHE Marine",
+            "lat": "48.9396",
+            "lng": "2.43058"
+        },
+        {
+            "title": "S.C.P BLANC Xavier GRASSIN Maximilien et associes",
+            "lat": "48.9462",
+            "lng": "2.43686"
+        },
+        {
+            "title": "S.A.S HUISSIERS PARIS - EST NOGENT ",
+            "lat": "48.8368",
+            "lng": "2.4867",
+            "adresse": "Acces a droite du Tribunal d'Instan 6 bis rue Pasteur BP 38  94732 NOGENT-SUR-MARNET",
+            "tel": "01.43.24.77.00",
+            "fax": "01.48.72.51.58",
+            "email": "etude@huissiernogent.fr",
+            "website": "www.huissiernogent.fr",
+            "horaires": "9h00-20h00"
+        },
+        {
+            "title": "S.E.L.A.S AJILEX",
+            "lat": "48.8345",
+            "lng": "2.49108"
+        },
+        {
+            "title": "S.E.L.A.R.L ALLIANCE JURIS",
+            "lat": "48.7935",
+            "lng": "2.46204"
+        },
+        {
+            "title": "S.C.P KERNEUR & ASSOCIES",
+            "lat": "48.8039",
+            "lng": "2.48772",
+            "adresse": "1 rue Leon Bocquet BP 41594100 SAINT MAU R DES FOSSEST",
+            "tel": "01.48.83.01.27",
+            "fax": "01.48.83.26.28",
+            "email": "scp.kerneur.associes@huissier-justice.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L JURIS GRAND PARIS",
+            "lat": "48.9296",
+            "lng": "2.49515",
+            "adresse": "24 avenue Dumont 93604 AULNAY-SOUS-BOIST",
+            "tel": "01.48.19.29.99",
+            "fax": "01.48.79.92.29",
+            "email": "jurisgrandparis@orange.fr",
+            "horaires": "09h-12h3014h-17h30"
+        },
+        {
+            "title": "S.C.P JEZEQUEL, GRUEL et Associes",
+            "lat": "48.7452",
+            "lng": "2.28359"
+        },
+        {
+            "title": "S.C.P BOUAZIZ STEPHANE",
+            "lat": "48.9122",
+            "lng": "2.51836",
+            "adresse": "22 bis avenue Vauban BP 1 93891 LIVRY-GARGANT",
+            "tel": "01.43.02.00.77",
+            "fax": "01.43.02.62.60",
+            "email": "etude@bouazizhuissiers.fr"
+        },
+        {
+            "title": "S.C.P CAMBRON ET ASSOCIES",
+            "lat": "48.7304",
+            "lng": "2.26919"
+        },
+        {
+            "title": "S.C.P EFRANCEY Arnaud-Amaury",
+            "lat": "48.727",
+            "lng": "2.25678",
+            "adresse": "11 bis place de l'Union Europeenne 91300 MASSYT",
+            "tel": "01.69.18.73.36",
+            "fax": "01.69.30.93.98",
+            "email": "ae.huissiermassy@gmail.com",
+            "website": "www.huissier-massy.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L DUBOIS FONTAINE PENOT-LETERRIER",
+            "lat": "48.9557",
+            "lng": "2.53505",
+            "adresse": "23 avenue Paul Vaillant Couturier BP 20 93420 VILLEPINTET",
+            "tel": "01.49.36.10.01",
+            "fax": "01.49.36.15.56",
+            "email": "contact@dubois-cdj.fr",
+            "website": "www.dubois-huissier-93.com"
+        },
+        {
+            "title": "S.C.P BLANC Xavier GRASSIN Maximilien et associes",
+            "lat": "48.7509",
+            "lng": "2.50552"
+        },
+        {
+            "title": "S.E.L.A.R.L LIEURADE Francois et LIEURADE Marie-Pierre",
+            "lat": "48.9023",
+            "lng": "2.58172",
+            "adresse": "19 avenue Marcel Dassault 93370 MONTFERMEILT",
+            "tel": "01.45.09.37.06",
+            "fax": "01.43.30.44.67",
+            "email": "vincent.allauzen@huissier-justice.fr",
+            "website": "http://huissier-93-lieurade.com/"
+        },
+        {
+            "title": "Maitre DIAS Sandrine",
+            "lat": "48.696",
+            "lng": "2.29508",
+            "adresse": "Le Renouveau 1 rue Adolphe Adam 91160 LONGJUMEAUT",
+            "tel": "01.64.48.80.97",
+            "fax": "01.69.34.06.71",
+            "email": "sandrine.dias@huissier-justice.fr",
+            "website": "huissier-dias.fr",
+            "horaires": "9 h 00 - 12 h 00 / 13h 30 - 17 h 00"
+        },
+        {
+            "title": "S.E.L.A.R.L COJUSTICE",
+            "lat": "48.6955",
+            "lng": "2.29207"
+        },
+        {
+            "title": "S.C.P CALIPPE & ASSOCIES ",
+            "lat": "48.8457",
+            "lng": "2.61395",
+            "adresse": "13 cours des Roches 77186 NOISIELT",
+            "tel": "01.60.17.25.77",
+            "fax": "01.60.17.39.38",
+            "email": "frison-daubin-huissier@wanadoo.fr",
+            "website": "www.huissier-noisiel.com"
+        },
+        {
+            "title": "S.E.L.A.R.L AGARD - VIGNER ",
+            "lat": "48.6769",
+            "lng": "2.41179",
+            "adresse": "1 rue Pierre Brossolette 91210 DRAVEILT",
+            "tel": "01.69.83.42.32",
+            "fax": "01.69.40.44.79",
+            "email": "avb@huissier-justice.fr",
+            "website": "www.huissiers-draveil-91.fr"
+        },
+        {
+            "title": "S.A.R.L DELTA HUISSIER IDF",
+            "lat": "49.0108",
+            "lng": "2.56059"
+        },
+        {
+            "title": "S.E.L.A.R.L LPF GRAND PARIS",
+            "lat": "48.8381",
+            "lng": "2.65385",
+            "adresse": "22 Rue Pierre Mendes France 77200 TORCYT",
+            "tel": "01.48.38.64.80",
+            "fax": "01.48.38.28.59",
+            "email": "cdjgrandparisnord@gmail.com"
+        },
+        {
+            "title": "S.A.S ID FACTO",
+            "lat": "48.6465",
+            "lng": "2.25623"
+        },
+        {
+            "title": "S.E.L.A.R.L DONIOL STEPHANE",
+            "lat": "48.95",
+            "lng": "2.6757",
+            "adresse": "8 rue de Souilly 77410 CLAYE-SOUILLYT",
+            "tel": "01.60.26.00.35",
+            "fax": "01.60.26.77.68",
+            "email": "sdoniol@huissier-77.fr",
+            "website": "www.huissier-77.fr"
+        },
+        {
+            "title": "S.C.P PAPILLON Guy, LESUEUR James",
+            "lat": "48.6304",
+            "lng": "2.42923"
+        },
+        {
+            "title": "S.C.P ABC JUSTICE ",
+            "lat": "48.8779",
+            "lng": "2.71609",
+            "adresse": "13 rue Saint Denis  77400 LAGNY-SUR-MARNET",
+            "tel": "01.64.30.01.54",
+            "fax": "01.64.30.82.6277",
+            "email": "@abcjustice.com",
+            "website": "www.abcjustice.com",
+            "horaires": "8H00 - 17H30"
+        },
+        {
+            "title": "S.C.P FRANCOIS Michel, LE DISCORDE Fabrice et SALOME Thomas",
+            "lat": "48.7639",
+            "lng": "2.69522"
+        },
+        {
+            "title": "S.C.P GALY FRANCE-LYNE HACID-RAYE NABILA",
+            "lat": "48.5907",
+            "lng": "2.24436",
+            "adresse": "6 boulevard Jean-Jaures BP 84 91292 ARPAJONT",
+            "tel": "01.64.90.00.34",
+            "fax": "01.64.90.58.86",
+            "email": "contact@huissier-arpajon91.com"
+        },
+        {
+            "title": "S.E.L.A.R.L EXEJURIS",
+            "lat": "48.740693",
+            "lng": "2.765458"
+        },
+        {
+            "title": "S.E.L.A.R.L ACTEHUIS",
+            "lat": "48.9557",
+            "lng": "2.89045",
+            "adresse": "49-51 avenue Salvador Allende BP 113 77105 MEAUXT",
+            "tel": "01.64.34.00.79",
+            "fax": "01.64.34.27.47",
+            "email": "etude@actehuis.com",
+            "website": "www.huissier-77-meaux.com",
+            "horaires": "09H00 - 12H00\n14H00 - 17H30"
+        },
+        {
+            "title": "S.E.L.A.R.L FOUGERES - MICHEL - BREDA ",
+            "lat": "48.9543",
+            "lng": "2.90854"
+        },
+        {
+            "title": "S.C.P BLANC Xavier GRASSIN Maximilien et associes",
+            "lat": "48.5414",
+            "lng": "2.6622",
+            "adresse": "Residence le Bancel 5 rue du Moulin de Poignet BP 71 77002 MELUNT",
+            "tel": "01.64.09.03.00",
+            "fax": "01.64.52.02.57",
+            "email": "contact@blancgrassin.com",
+            "website": "https://melun.huissier-benoit.fr"
+        },
+        {
+            "title": "S.A.S ID FACTO",
+            "lat": "48.5326",
+            "lng": "2.65722"
+        },
+        {
+            "title": "S.E.L.A.S PROESING",
+            "lat": "48.4374",
+            "lng": "2.16642"
+        },
+        {
+            "title": "S.E.L.A.R.L ACTEHUIS",
+            "lat": "48.813117",
+            "lng": "3.085403"
+        },
+        {
+            "title": "S.C.P KALIACT JEZEQUEL SIRI ET ASSOCIES",
+            "lat": "48.411",
+            "lng": "2.70309",
+            "adresse": "28 rue de Neuville BP 501 77300 FONTAINEBLEAUT",
+            "tel": "01.64.22.23.20",
+            "fax": "01.64.22.76.40",
+            "email": "contact@hdj77.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L ACTEHUIS",
+            "lat": "48.949684",
+            "lng": "3.128465"
+        },
+        {
+            "title": "S.E.L.A.R.L SG BAENA ",
+            "lat": "48.3729",
+            "lng": "2.81155",
+            "adresse": "9 rue des Rogeries BP 52 77250 MORET-SUR-LOINGT",
+            "tel": "01.60.70.50.12",
+            "fax": "01.60.70.90.24",
+            "email": "contact@sandrinebaena.fr"
+        },
+        {
+            "title": "Maitre GUET KARINE",
+            "lat": "48.3819",
+            "lng": "2.95293",
+            "adresse": "3 avenue du General de Gaulle 77130 MONTEREAU-FAULT-YONNET",
+            "tel": "01.64.32.06.42",
+            "fax": "01.64.70.07.03",
+            "email": "guet.karine@yahoo.fr",
+            "horaires": "9H00 - 12H0014H00 - 18H00"
+        },
+        {
+            "title": "Maitre QUESSETTE MAGALI",
+            "lat": "48.7817",
+            "lng": "3.3045"
+        },
+        {
+            "title": "S.E.L.A.S MOREL Charline",
+            "lat": "48.285",
+            "lng": "3.20591"
+        },
+        {
+            "title": "S.E.L.A.R.L PFAFF Delphine et BOURDENET Emilie ",
+            "lat": "48.198",
+            "lng": "3.29068",
+            "adresse": "12 place des Heros BP 515 89105 SENST",
+            "tel": "03.86.65.10.53",
+            "fax": "03.86.65.90.22",
+            "email": "scp.pfaff@huissier-justice.fr",
+            "website": "www.huissier-sens.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L JOLIMET Anthony",
+            "lat": "47.9826",
+            "lng": "3.39163",
+            "adresse": "28 bis quai Leclerc BP 55 89302 JOIGNYT",
+            "tel": "03.86.91.42.44",
+            "fax": "03.86.62.32.52",
+            "email": "contact@huissier-jolimet-89.com",
+            "website": "www.huissier-jolimet-89.com"
+        },
+        {
+            "title": "Maitre PERRIER Julie",
+            "lat": "48.0009",
+            "lng": "3.73012",
+            "adresse": "9 rue de la Terrasse 89600 SAINT-FLORENTINT",
+            "tel": "03.86.35.29.27",
+            "fax": "03.86.35.11.54",
+            "email": "perrier.julie@huissier-justice.fr"
+        },
+        {
+            "title": "S.E.L.A.R.L TOTAL Thierry & Associes",
+            "lat": "47.7943",
+            "lng": "3.56678"
+        },
+        {
+            "title": "S.E.L.A.R.L SWIETEK XAVIER",
+            "lat": "47.8556",
+            "lng": "3.97506"
+        },
+        {
+            "title": "S.E.L.A.R.L LPF GRAND PARIS",
+            "lat": "4.52",
+            "lng": "6.58"
+        }
+    ]
+}
